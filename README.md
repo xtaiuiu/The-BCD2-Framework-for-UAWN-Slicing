@@ -1,12 +1,11 @@
-# The DQCO Framework for UAWN Slicing - Simulation Code
+# The BCD² Framework for UAWN Slicing - Simulation Code
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
 
 This repository contains the simulation code for the paper:  
-**"Fast Slicing for UAV-Aided Wireless Networks: A
-Quasiconvex Decomposition Framework"**  
-*(Submitted to IEEE INFOCOM, 2026)*
+**"Network Slicing for UAV-assisted Wireless Networks with QoS Guarantees: A Lightweight Decomposition Framework"**  
+*(Submitted to IEEE/ACM Transactions on Networking)*
 
 
 ## 🚀 Quick Start
